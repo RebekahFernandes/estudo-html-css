@@ -1,0 +1,210 @@
+*,body,html{
+    padding: 0;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    overflow-x: hidden;
+}
+.menu{
+    background-color: whitesmoke;
+    height: 15vh;
+    width: 100vw;
+    position: fixed;
+}
+
+.imgn{
+    height: 70px;
+    width: 220px;
+    padding-top: 10px;
+    padding-left: 25px;
+    float: left;
+}
+
+a{
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    float: left;
+    font-size: 30px; 
+    padding-left: 100px;
+}
+a:hover{
+    cursor: pointer;
+}
+.img1{
+    height: 110vh;
+    width: 100vw;
+}
+.posit1{
+    position: absolute;
+    top: 25px;
+    left: 300px;
+}
+.text1{
+    background-color:whitesmoke;
+    height: 45vh;
+    width: 30vw;
+    opacity: 90%;
+    text-align: center;
+    font-size: 50px;
+    padding: 10px;
+    position: absolute;
+    top: 33vh;
+    left: 35vw;
+    border-style:groove;
+    border-color: gray;
+}
+b{
+    color: #00dac0;
+}
+.sec2{
+    background-color:#00dac0;
+    height: 100vh;
+    width: 100vw;
+}
+.text2{
+    font-size: 21px;
+    text-align: center;
+    position: absolute;
+    top: 155vh;
+    left: 60vw;
+}
+
+.img2{
+    height: 361px;
+    width: 542px;
+    position: absolute;
+    top: 140vh;
+    left: 10vw;
+}
+.imgl1{
+    background-color: whitesmoke;
+    height: 82px;
+    width: 79px;
+    position: absolute;
+    top: 140vh;
+    left: 72vw;
+}
+.sec3{
+    background-color:black;
+    height: 120vh;
+    width: 100vw;
+}
+.text3{
+    background-color:whitesmoke;
+    height: 30vh;
+    width: 25vw;
+    opacity: 90%;
+    text-align: center;
+    font-size: 40px;
+    padding: 10px;
+    position: absolute;
+    top: 230vh;
+    left: 20vw;
+    border-style:groove;
+    border-color: gray;
+}
+.size1{
+    font-size: 50px;
+}
+.text4{
+    background-color:whitesmoke;
+    height: 30vh;
+    width: 25vw;
+    opacity: 90%;
+    text-align: center;
+    font-size: 35.5px;
+    padding: 10px;
+    position: absolute;
+    top: 270vh;
+    left: 20vw;
+    border-style:groove;
+    border-color: gray;
+}
+.text5{
+    background-color:whitesmoke;
+    height: 30vh;
+    width: 25vw;
+    opacity: 90%;
+    text-align: center;
+    font-size: 35.5px;
+    padding: 10px;
+    position: absolute;
+    top: 230vh;
+    right: 20vw;
+    border-style:groove;
+    border-color: gray;
+}
+.text6{
+    background-color:whitesmoke;
+    height: 30vh;
+    width: 25vw;
+    opacity: 90%;
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+    position: absolute;
+    top: 270vh;
+    right: 20vw;
+    border-style:groove;
+    border-color: gray;
+}
+.agenda{
+    height: 100px;
+    width: 100px;
+}
+.money{
+    height: 100px;
+    width: 100px;
+}
+.sec4{
+    background-color:whitesmoke;
+    height: 50vh;
+    width: 100vw;
+}
+.imgr1{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 350vh;
+    left: 45vw;
+}
+.imgr2{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 350vh;
+    left: 50vw;
+}
+.imgr3{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 350vh;
+    left: 55vw;
+}
+.text7{
+    font-size: 25px;
+    text-align: center;
+    position: absolute;
+    top: 340vh;
+    left: 46vw;
+}
+.text8{
+    font-size: 15px;
+    text-align: center;
+    position: absolute;
+    top: 363vh;
+    left: 45vw;
+}
+.footer{
+    background-color: lightgray;
+    height: 25vh;
+    width: 100vw;
+}
+.imgl2{
+    height: 82px;
+    width: 82px;
+    position: absolute;
+    top: 385vh;
+    left: 50vw;
+}
